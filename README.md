@@ -69,37 +69,37 @@ Paste screenshots from the Virtual Lab showing the input voltage and frequency s
 
 ## OBSERVATION TABLE
 
-**Input voltage Vin = ______ V      Frequency f = ______ Hz      Null voltage = ______ V**
+**Input voltage Vin = _10_____ V      Frequency f = __1000____ Hz      Null voltage = ______ V**
 
 ### A. Positive displacement of core
 
 | S. No. | Displacement x (mm) | Output voltage Vo (V) |
 |:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-| 9 | | |
-| 10 | | |
+| 1 | 1 | 17.45 |
+| 2 | 2 | 34.77 |
+| 3 | 3 | 51.82 |
+| 4 | 4 | 68.48 |
+| 5 | 5 | 84.62 |
+| 6 | 6 | 100.10 |
+| 7 | 7 | 114.80 |
+| 8 | 8 | 128.58 |
+| 9 | 9 | 141.31 |
+| 10 | 10 | 152.86 |
 
 ### B. Negative displacement of core
 
 | S. No. | Displacement x (mm) | Output voltage Vo (V) |
 |:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-| 9 | | |
-| 10 | | |
+| 1 | -1 | 17.45 |
+| 2 | -2 | 34.77 |
+| 3 | -3 | 51.82 |
+| 4 | -4 | 68.48 |
+| 5 | -5 | 84.62|
+| 6 | -6 | 100.10 |
+| 7 | -7 | 114.80 |
+| 8 | -8 | 128.58 |
+| 9 | -9 | 141.31|
+| 10 | -10 | 152.82 |
 
 ## FORMULA
 
