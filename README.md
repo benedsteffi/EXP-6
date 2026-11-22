@@ -1,8 +1,8 @@
 # EXPERIMENT NO. 6 – CHARACTERISTICS OF LVDT
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** |STEFFI | **Reg. No.:** |26017879 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |22/11/26 | **Batch / Section:** | |
 
 ---
 
